@@ -1,0 +1,20 @@
+/* 아래에 코드를 작성하시오. */
+.img-heart {
+  position: relative;
+}
+
+.img-heart svg {
+  top: 17%;
+  left: 17%;
+  position: absolute;
+}
+
+.img-heading {
+  position: relative;
+}
+
+.img-heading svg {
+  top: 102%;
+  left: 50%;
+  position: absolute;
+}
